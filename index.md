@@ -1,5 +1,6 @@
 # Ingrid Tsai's First CS193 Homework
-- I hope to learn a lot about CS and tools that will help me succeed
+- I hope to learn a lot about CS and tools
+- It seems really cool!
 
 
 ## Welcome to GitHub Pages
